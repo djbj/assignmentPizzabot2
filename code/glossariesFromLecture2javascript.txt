@@ -1,0 +1,57 @@
+//const greeting = (name) => {
+//  console.log("Hello " + name)
+//}
+
+//greeting("Bjorn")
+//setInterval(greeting, 1000)
+
+//const fruits = ["Apple", "orange", "pear"]
+//console.log(fruits[0])
+//console.log()
+
+//fruits.forEach((fruitName, index) => {
+//  console.log(fruitName, index)
+//})
+
+//fruits.forEach( (name, index) => {
+//  console.log(name);
+//}
+//)
+
+//fruitArray = ["Apple", "Orange", "Pear"]
+
+//fruitArray.forEach( (name, index, _) => {
+//    console.log("Ávöxturinn heitir " + name + " og er númer " + index)
+
+//}
+//)
+
+//fruits.push bætir við itemi
+//fruits.pop fjarlægir item
+// const lemonINdex = fruits.indexOf("Lemon")
+//
+
+//const fruits = ["Apple", "Pear", "Orange", "Banan", "Lemon"]
+//console.log(fruits)
+
+//orangeIndex = fruits.indexOf("Orange")
+//lemonIndex = fruits.indexOf("Lemon")
+
+//fruits[orangeIndex] = "pear"
+//fruits.splice(lemonIndex, 1)
+
+//console.log(fruits)
+
+
+// Objects
+
+// const fruit = {name or key: value, name: value, name: value}
+//
+
+//fruits = [
+//  {name: "Apple", isSour: false, rating: 2},
+//  {name: "Orange", isSour: false, rating: 3},
+//  {name: "Lemon", isSour: true, rating: 2}
+//]
+
+//console.log("The fruit " + fruits[2].name + " has a rating of " + fruits[2].rating)
